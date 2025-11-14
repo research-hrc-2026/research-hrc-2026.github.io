@@ -1,9 +1,9 @@
 
 import React from 'react';
-import Header from './components/Header';
-import Footer from './components/Footer';
-import VideoPlayer from './components/VideoPlayer';
-import { VideoData } from './types';
+import Header from './components/Header.tsx';
+import Footer from './components/Footer.tsx';
+import VideoPlayer from './components/VideoPlayer.tsx';
+import { VideoData } from './types.ts';
 
 // --- USER: REPLACE WITH YOUR VIDEO DATA ---
 // You can host your videos in your GitHub repository and link them directly.
