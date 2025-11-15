@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+Cimport React, { useState, useEffect } from 'react';
 import ReactDOM from 'react-dom/client';
 
 // --- From components/Icons.tsx ---
@@ -144,8 +144,8 @@ const videos = [
     description: 'Our robust perception pipeline, showing successful tracking and rejection of ambiguous ghost paths.'
   },
   {
-    id: 'comparison',
-    src: 'comparison.mp4',
+    id: 'comparison1',
+    src: 'comparison1.mp4',
     title: 'Baseline vs. Our Method',
     description: 'A side-by-side comparison, highlighting our system\'s stability and accuracy.'
   },
