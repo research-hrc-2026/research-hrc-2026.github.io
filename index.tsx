@@ -145,7 +145,7 @@ const videos = [
   },
   {
     id: 'comparison',
-    src: 'comparison.mp4',
+    src: 'comparison1.mp4',
     title: 'Baseline vs. Our Method',
     description: 'A side-by-side comparison, highlighting our system\'s stability and accuracy.'
   },
