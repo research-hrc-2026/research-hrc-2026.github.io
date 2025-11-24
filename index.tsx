@@ -151,19 +151,19 @@ const videos = [
   },
   {
     id: 'high-effort',
-    src: null,
+    src: high.mp4,
     title: 'Scenario A: High-Effort Deadlock',
     description: 'The robot team detects a high-cost maneuver and collaborates with the human for resolution.'
   },
   {
     id: 'low-effort',
-    src: null,
+    src: low.mp4,
     title: 'Scenario B: Low-Effort Deadlock',
     description: 'The system detects planner stagnation and alerts the human to choose a recovery strategy.'
   },
   {
     id: 'coordination-gap',
-    src: null,
+    src: gap.mp4,
     title: 'Scenario C: Coordination Gap',
     description: 'The system detects a large separation distance and initiates communication to re-establish formation.'
   }
