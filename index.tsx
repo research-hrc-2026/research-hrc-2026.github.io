@@ -133,7 +133,7 @@ const Section: React.FC<SectionProps> = ({ id, title, children }) => {
 const videos = [
   {
     id: 'teaser',
-    src: null,
+    src: 'teaser.mp4',
     title: 'Teaser Video',
     description: 'A short, high-level overview of our resilient multi-robot coordination system in action.'
   },
@@ -145,7 +145,7 @@ const videos = [
   },
   {
     id: 'comparison',
-    src: 'comparison.mp4',
+    src: 'comparison1.mp4',
     title: 'Baseline vs. Our Method',
     description: 'A side-by-side comparison, highlighting our system\'s stability and accuracy.'
   },
